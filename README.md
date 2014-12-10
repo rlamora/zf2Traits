@@ -8,7 +8,7 @@ Only work with PHP  5.4+
 
 ##Usage
 
-The usage is straightforward if your the php docs on traits [here](http://php.net/manual/fr/language.oop5.traits.php).
+The usage is straightforward if you read the php docs on traits [here](http://php.net/manual/fr/language.oop5.traits.php).
 Just don't forget to add your namespaces to the files.
 
 The exception is for the ServiceManagerProvider, you need to implements Zend\ServiceManager\ServiceManagerAwareInterface.
